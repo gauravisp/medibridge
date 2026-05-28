@@ -101,7 +101,3 @@
   - **Cash Payment**
   - **Razorpay** for secure online transactions.
 
-## 🌐 Project Setup
-
-1. **Clone the Repository**:
-```bash
